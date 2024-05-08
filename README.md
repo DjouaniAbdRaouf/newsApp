@@ -4,7 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application contains a news presentations in diffrent categories from an API news.org
+----- Authentifications ------
+with google or facebook
+----- features ------
+learn news in offline mode
+Dark mode
+Filtrations of categories
+
 
 A few resources to get you started if this is your first Flutter project:
 
